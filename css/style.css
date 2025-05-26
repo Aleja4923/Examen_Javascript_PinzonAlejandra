@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(166, 122, 90);
+}
+
+header {
+    background-color: rgb(219, 207, 194);
+    display: flex;
+    justify-content: space-around;
+    align-content: stretch;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
